@@ -1,2 +1,2 @@
 # hello-world
-Arquivo do curso
+Exercício 1 do curso da Cubos\ Ifood - Tema Setup.
